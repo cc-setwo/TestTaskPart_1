@@ -1,0 +1,2167 @@
+fileFormatVersion: 2
+guid: 6b42302a4113f7749bec165ab8e3ccac
+timeCreated: 1484144107
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beta_Joints
+    100002: Beta_Joints_frag_001
+    100004: Beta_Joints_frag_002
+    100006: Beta_Joints_frag_003
+    100008: Beta_Joints_frag_004
+    100010: Beta_Joints_frag_005
+    100012: Beta_Joints_frag_006
+    100014: Beta_Joints_frag_007
+    100016: Beta_Joints_frag_008
+    100018: Beta_Joints_frag_009
+    100020: Beta_Joints_frag_010
+    100022: Beta_Joints_frag_011
+    100024: Beta_Joints_frag_012
+    100026: Beta_Joints_frag_013
+    100028: Beta_Joints_frag_014
+    100030: Beta_Joints_frag_015
+    100032: Beta_Joints_frag_016
+    100034: Beta_Joints_frag_017
+    100036: Beta_Joints_frag_018
+    100038: Beta_Joints_frag_019
+    100040: Beta_Joints_frag_020
+    100042: Beta_Joints_frag_021
+    100044: Beta_Joints_frag_022
+    100046: Beta_Joints_frag_023
+    100048: Beta_Joints_frag_024
+    100050: Beta_Joints_frag_025
+    100052: Beta_Joints_frag_026
+    100054: Beta_Joints_frag_027
+    100056: Beta_Joints_frag_028
+    100058: Beta_Joints_frag_029
+    100060: Beta_Joints_frag_030
+    100062: Beta_Joints_frag_031
+    100064: Beta_Joints_frag_032
+    100066: Beta_Joints_frag_033
+    100068: Beta_Joints_frag_034
+    100070: Beta_Joints_frag_035
+    100072: Beta_Joints_frag_036
+    100074: Beta_Joints_frag_037
+    100076: Beta_Joints_frag_038
+    100078: Beta_Joints_frag_039
+    100080: Beta_Joints_frag_040
+    100082: Beta_Joints_frag_041
+    100084: Beta_Joints_frag_042
+    100086: Beta_Joints_frag_043
+    100088: Beta_Joints_frag_044
+    100090: Beta_Joints_frag_045
+    100092: Beta_Joints_frag_046
+    100094: Beta_Joints_frag_047
+    100096: Beta_Joints_frag_048
+    100098: Beta_Joints_frag_049
+    100100: Beta_Joints_frag_050
+    100102: Beta_Joints_frag_051
+    100104: Beta_Joints_frag_052
+    100106: Beta_Joints_frag_053
+    100108: Beta_Joints_frag_054
+    100110: Beta_Joints_frag_055
+    100112: Beta_Joints_frag_056
+    100114: Beta_Joints_frag_057
+    100116: Beta_Joints_frag_058
+    100118: Beta_Joints_frag_059
+    100120: Beta_Joints_frag_060
+    100122: Beta_Joints_frag_061
+    100124: Beta_Joints_frag_062
+    100126: Beta_Joints_frag_063
+    100128: Beta_Joints_frag_064
+    100130: Beta_Joints_frag_065
+    100132: Beta_Joints_frag_066
+    100134: Beta_Joints_frag_067
+    100136: Beta_Joints_frag_068
+    100138: Beta_Joints_frag_069
+    100140: Beta_Joints_frag_070
+    100142: Beta_Joints_frag_071
+    100144: Beta_Joints_frag_072
+    100146: Beta_Joints_frag_073
+    100148: Beta_Joints_frag_074
+    100150: Beta_Joints_frag_075
+    100152: Beta_Joints_frag_076
+    100154: Beta_Joints_frag_077
+    100156: Beta_Joints_frag_078
+    100158: Beta_Joints_frag_079
+    100160: Beta_Joints_frag_080
+    100162: Beta_Joints_frag_081
+    100164: Beta_Joints_frag_082
+    100166: Beta_Joints_frag_083
+    100168: Beta_Joints_frag_084
+    100170: Beta_Joints_frag_085
+    100172: Beta_Joints_frag_086
+    100174: Beta_Joints_frag_087
+    100176: Beta_Joints_frag_088
+    100178: Beta_Joints_frag_089
+    100180: Beta_Joints_frag_090
+    100182: Beta_Joints_frag_091
+    100184: Beta_Joints_frag_092
+    100186: Beta_Joints_frag_093
+    100188: Beta_Joints_frag_094
+    100190: Beta_Joints_frag_095
+    100192: Beta_Joints_frag_096
+    100194: Beta_Joints_frag_097
+    100196: Beta_Joints_frag_098
+    100198: Beta_Joints_frag_099
+    100200: Beta_Joints_frag_100
+    100202: Beta_Joints_frag_101
+    100204: Beta_Joints_frag_102
+    100206: Beta_Joints_frag_103
+    100208: Beta_Joints_frag_104
+    100210: Beta_Joints_frag_105
+    100212: Beta_Joints_frag_106
+    100214: Beta_Joints_frag_107
+    100216: Beta_Surface
+    100218: Beta_Surface_frag_001
+    100220: Beta_Surface_frag_002
+    100222: Beta_Surface_frag_003
+    100224: Beta_Surface_frag_004
+    100226: Beta_Surface_frag_005
+    100228: Beta_Surface_frag_006
+    100230: Beta_Surface_frag_007
+    100232: Beta_Surface_frag_008
+    100234: Beta_Surface_frag_009
+    100236: Beta_Surface_frag_010
+    100238: Beta_Surface_frag_011
+    100240: Beta_Surface_frag_012
+    100242: Beta_Surface_frag_013
+    100244: Beta_Surface_frag_014
+    100246: Beta_Surface_frag_015
+    100248: Beta_Surface_frag_016
+    100250: Beta_Surface_frag_017
+    100252: Beta_Surface_frag_018
+    100254: Beta_Surface_frag_019
+    100256: Beta_Surface_frag_020
+    100258: Beta_Surface_frag_021
+    100260: Beta_Surface_frag_022
+    100262: Beta_Surface_frag_023
+    100264: Beta_Surface_frag_024
+    100266: Beta_Surface_frag_025
+    100268: Beta_Surface_frag_026
+    100270: Beta_Surface_frag_027
+    100272: Beta_Surface_frag_028
+    100274: Beta_Surface_frag_029
+    100276: Beta_Surface_frag_030
+    100278: Beta_Surface_frag_031
+    100280: Beta_Surface_frag_032
+    100282: Beta_Surface_frag_033
+    100284: Beta_Surface_frag_034
+    100286: Beta_Surface_frag_035
+    100288: Beta_Surface_frag_036
+    100290: Beta_Surface_frag_037
+    100292: Beta_Surface_frag_038
+    100294: Beta_Surface_frag_039
+    100296: Beta_Surface_frag_040
+    100298: Beta_Surface_frag_041
+    100300: Beta_Surface_frag_042
+    100302: Beta_Surface_frag_043
+    100304: Beta_Surface_frag_044
+    100306: Beta_Surface_frag_045
+    100308: Beta_Surface_frag_046
+    100310: Beta_Surface_frag_047
+    100312: Beta_Surface_frag_048
+    100314: Beta_Surface_frag_049
+    100316: Beta_Surface_frag_050
+    100318: Beta_Surface_frag_051
+    100320: Beta_Surface_frag_052
+    100322: Beta_Surface_frag_053
+    100324: Beta_Surface_frag_054
+    100326: Beta_Surface_frag_055
+    100328: Beta_Surface_frag_056
+    100330: Beta_Surface_frag_057
+    100332: Beta_Surface_frag_058
+    100334: Beta_Surface_frag_059
+    100336: Beta_Surface_frag_060
+    100338: Beta_Surface_frag_061
+    100340: Beta_Surface_frag_062
+    100342: Beta_Surface_frag_063
+    100344: Beta_Surface_frag_064
+    100346: Beta_Surface_frag_065
+    100348: Beta_Surface_frag_066
+    100350: Beta_Surface_frag_067
+    100352: Beta_Surface_frag_068
+    100354: Beta_Surface_frag_069
+    100356: Beta_Surface_frag_070
+    100358: Beta_Surface_frag_071
+    100360: Beta_Surface_frag_072
+    100362: Beta_Surface_frag_073
+    100364: Beta_Surface_frag_074
+    100366: Beta_Surface_frag_075
+    100368: Beta_Surface_frag_076
+    100370: Beta_Surface_frag_077
+    100372: Beta_Surface_frag_078
+    100374: Beta_Surface_frag_079
+    100376: Beta_Surface_frag_080
+    100378: Beta_Surface_frag_081
+    100380: Beta_Surface_frag_082
+    100382: Beta_Surface_frag_083
+    100384: Beta_Surface_frag_084
+    100386: Beta_Surface_frag_085
+    100388: Beta_Surface_frag_086
+    100390: Beta_Surface_frag_087
+    100392: Beta_Surface_frag_088
+    100394: Beta_Surface_frag_089
+    100396: Beta_Surface_frag_090
+    100398: Beta_Surface_frag_091
+    100400: Beta_Surface_frag_092
+    100402: Beta_Surface_frag_093
+    100404: Beta_Surface_frag_094
+    100406: Beta_Surface_frag_095
+    100408: Beta_Surface_frag_096
+    100410: Beta_Surface_frag_097
+    100412: Beta_Surface_frag_098
+    100414: Beta_Surface_frag_099
+    100416: Beta_Surface_frag_100
+    100418: Beta_Surface_frag_101
+    100420: Beta_Surface_frag_102
+    100422: Beta_Surface_frag_103
+    100424: Beta_Surface_frag_104
+    100426: Beta_Surface_frag_105
+    100428: Beta_Surface_frag_106
+    100430: Beta_Surface_frag_107
+    100432: Beta_Surface_frag_108
+    100434: Beta_Surface_frag_109
+    100436: Beta_Surface_frag_110
+    100438: Beta_Surface_frag_111
+    100440: Beta_Surface_frag_112
+    100442: Beta_Surface_frag_113
+    100444: Beta_Surface_frag_114
+    100446: Beta_Surface_frag_115
+    100448: Beta_Surface_frag_116
+    100450: Beta_Surface_frag_117
+    100452: Beta_Surface_frag_118
+    100454: Beta_Surface_frag_119
+    100456: Beta_Surface_frag_120
+    100458: Beta_Surface_frag_121
+    100460: Beta_Surface_frag_122
+    100462: Beta_Surface_frag_123
+    100464: Beta_Surface_frag_124
+    100466: Beta_Surface_frag_125
+    100468: Beta_Surface_frag_126
+    100470: Beta_Surface_frag_127
+    100472: Beta_Surface_frag_128
+    100474: Beta_Surface_frag_129
+    100476: Beta_Surface_frag_130
+    100478: Beta_Surface_frag_131
+    100480: Beta_Surface_frag_132
+    100482: Beta_Surface_frag_133
+    100484: Beta_Surface_frag_134
+    100486: Beta_Surface_frag_135
+    100488: Beta_Surface_frag_136
+    100490: Beta_Surface_frag_137
+    100492: Beta_Surface_frag_138
+    100494: Beta_Surface_frag_139
+    100496: Beta_Surface_frag_140
+    100498: Beta_Surface_frag_141
+    100500: Beta_Surface_frag_142
+    100502: Beta_Surface_frag_143
+    100504: Beta_Surface_frag_144
+    100506: Beta_Surface_frag_145
+    100508: Box001
+    100510: //RootNode
+    100512: mixamorig:Head
+    100514: mixamorig:HeadTop_End
+    100516: mixamorig:Hips
+    100518: mixamorig:LeftArm
+    100520: mixamorig:LeftEye
+    100522: mixamorig:LeftFoot
+    100524: mixamorig:LeftForeArm
+    100526: mixamorig:LeftHand
+    100528: mixamorig:LeftHandIndex1
+    100530: mixamorig:LeftHandIndex2
+    100532: mixamorig:LeftHandIndex3
+    100534: mixamorig:LeftHandIndex4
+    100536: mixamorig:LeftHandMiddle1
+    100538: mixamorig:LeftHandMiddle2
+    100540: mixamorig:LeftHandMiddle3
+    100542: mixamorig:LeftHandMiddle4
+    100544: mixamorig:LeftHandPinky1
+    100546: mixamorig:LeftHandPinky2
+    100548: mixamorig:LeftHandPinky3
+    100550: mixamorig:LeftHandPinky4
+    100552: mixamorig:LeftHandRing1
+    100554: mixamorig:LeftHandRing2
+    100556: mixamorig:LeftHandRing3
+    100558: mixamorig:LeftHandRing4
+    100560: mixamorig:LeftHandThumb1
+    100562: mixamorig:LeftHandThumb2
+    100564: mixamorig:LeftHandThumb3
+    100566: mixamorig:LeftHandThumb4
+    100568: mixamorig:LeftLeg
+    100570: mixamorig:LeftShoulder
+    100572: mixamorig:LeftToe_End
+    100574: mixamorig:LeftToeBase
+    100576: mixamorig:LeftUpLeg
+    100578: mixamorig:Neck
+    100580: mixamorig:RightArm
+    100582: mixamorig:RightEye
+    100584: mixamorig:RightFoot
+    100586: mixamorig:RightForeArm
+    100588: mixamorig:RightHand
+    100590: mixamorig:RightHandIndex1
+    100592: mixamorig:RightHandIndex2
+    100594: mixamorig:RightHandIndex3
+    100596: mixamorig:RightHandIndex4
+    100598: mixamorig:RightHandMiddle1
+    100600: mixamorig:RightHandMiddle2
+    100602: mixamorig:RightHandMiddle3
+    100604: mixamorig:RightHandMiddle4
+    100606: mixamorig:RightHandPinky1
+    100608: mixamorig:RightHandPinky2
+    100610: mixamorig:RightHandPinky3
+    100612: mixamorig:RightHandPinky4
+    100614: mixamorig:RightHandRing1
+    100616: mixamorig:RightHandRing2
+    100618: mixamorig:RightHandRing3
+    100620: mixamorig:RightHandRing4
+    100622: mixamorig:RightHandThumb1
+    100624: mixamorig:RightHandThumb2
+    100626: mixamorig:RightHandThumb3
+    100628: mixamorig:RightHandThumb4
+    100630: mixamorig:RightLeg
+    100632: mixamorig:RightShoulder
+    100634: mixamorig:RightToe_End
+    100636: mixamorig:RightToeBase
+    100638: mixamorig:RightUpLeg
+    100640: mixamorig:Spine
+    100642: mixamorig:Spine1
+    100644: mixamorig:Spine2
+    100646: Sphere001
+    400000: Beta_Joints
+    400002: Beta_Joints_frag_001
+    400004: Beta_Joints_frag_002
+    400006: Beta_Joints_frag_003
+    400008: Beta_Joints_frag_004
+    400010: Beta_Joints_frag_005
+    400012: Beta_Joints_frag_006
+    400014: Beta_Joints_frag_007
+    400016: Beta_Joints_frag_008
+    400018: Beta_Joints_frag_009
+    400020: Beta_Joints_frag_010
+    400022: Beta_Joints_frag_011
+    400024: Beta_Joints_frag_012
+    400026: Beta_Joints_frag_013
+    400028: Beta_Joints_frag_014
+    400030: Beta_Joints_frag_015
+    400032: Beta_Joints_frag_016
+    400034: Beta_Joints_frag_017
+    400036: Beta_Joints_frag_018
+    400038: Beta_Joints_frag_019
+    400040: Beta_Joints_frag_020
+    400042: Beta_Joints_frag_021
+    400044: Beta_Joints_frag_022
+    400046: Beta_Joints_frag_023
+    400048: Beta_Joints_frag_024
+    400050: Beta_Joints_frag_025
+    400052: Beta_Joints_frag_026
+    400054: Beta_Joints_frag_027
+    400056: Beta_Joints_frag_028
+    400058: Beta_Joints_frag_029
+    400060: Beta_Joints_frag_030
+    400062: Beta_Joints_frag_031
+    400064: Beta_Joints_frag_032
+    400066: Beta_Joints_frag_033
+    400068: Beta_Joints_frag_034
+    400070: Beta_Joints_frag_035
+    400072: Beta_Joints_frag_036
+    400074: Beta_Joints_frag_037
+    400076: Beta_Joints_frag_038
+    400078: Beta_Joints_frag_039
+    400080: Beta_Joints_frag_040
+    400082: Beta_Joints_frag_041
+    400084: Beta_Joints_frag_042
+    400086: Beta_Joints_frag_043
+    400088: Beta_Joints_frag_044
+    400090: Beta_Joints_frag_045
+    400092: Beta_Joints_frag_046
+    400094: Beta_Joints_frag_047
+    400096: Beta_Joints_frag_048
+    400098: Beta_Joints_frag_049
+    400100: Beta_Joints_frag_050
+    400102: Beta_Joints_frag_051
+    400104: Beta_Joints_frag_052
+    400106: Beta_Joints_frag_053
+    400108: Beta_Joints_frag_054
+    400110: Beta_Joints_frag_055
+    400112: Beta_Joints_frag_056
+    400114: Beta_Joints_frag_057
+    400116: Beta_Joints_frag_058
+    400118: Beta_Joints_frag_059
+    400120: Beta_Joints_frag_060
+    400122: Beta_Joints_frag_061
+    400124: Beta_Joints_frag_062
+    400126: Beta_Joints_frag_063
+    400128: Beta_Joints_frag_064
+    400130: Beta_Joints_frag_065
+    400132: Beta_Joints_frag_066
+    400134: Beta_Joints_frag_067
+    400136: Beta_Joints_frag_068
+    400138: Beta_Joints_frag_069
+    400140: Beta_Joints_frag_070
+    400142: Beta_Joints_frag_071
+    400144: Beta_Joints_frag_072
+    400146: Beta_Joints_frag_073
+    400148: Beta_Joints_frag_074
+    400150: Beta_Joints_frag_075
+    400152: Beta_Joints_frag_076
+    400154: Beta_Joints_frag_077
+    400156: Beta_Joints_frag_078
+    400158: Beta_Joints_frag_079
+    400160: Beta_Joints_frag_080
+    400162: Beta_Joints_frag_081
+    400164: Beta_Joints_frag_082
+    400166: Beta_Joints_frag_083
+    400168: Beta_Joints_frag_084
+    400170: Beta_Joints_frag_085
+    400172: Beta_Joints_frag_086
+    400174: Beta_Joints_frag_087
+    400176: Beta_Joints_frag_088
+    400178: Beta_Joints_frag_089
+    400180: Beta_Joints_frag_090
+    400182: Beta_Joints_frag_091
+    400184: Beta_Joints_frag_092
+    400186: Beta_Joints_frag_093
+    400188: Beta_Joints_frag_094
+    400190: Beta_Joints_frag_095
+    400192: Beta_Joints_frag_096
+    400194: Beta_Joints_frag_097
+    400196: Beta_Joints_frag_098
+    400198: Beta_Joints_frag_099
+    400200: Beta_Joints_frag_100
+    400202: Beta_Joints_frag_101
+    400204: Beta_Joints_frag_102
+    400206: Beta_Joints_frag_103
+    400208: Beta_Joints_frag_104
+    400210: Beta_Joints_frag_105
+    400212: Beta_Joints_frag_106
+    400214: Beta_Joints_frag_107
+    400216: Beta_Surface
+    400218: Beta_Surface_frag_001
+    400220: Beta_Surface_frag_002
+    400222: Beta_Surface_frag_003
+    400224: Beta_Surface_frag_004
+    400226: Beta_Surface_frag_005
+    400228: Beta_Surface_frag_006
+    400230: Beta_Surface_frag_007
+    400232: Beta_Surface_frag_008
+    400234: Beta_Surface_frag_009
+    400236: Beta_Surface_frag_010
+    400238: Beta_Surface_frag_011
+    400240: Beta_Surface_frag_012
+    400242: Beta_Surface_frag_013
+    400244: Beta_Surface_frag_014
+    400246: Beta_Surface_frag_015
+    400248: Beta_Surface_frag_016
+    400250: Beta_Surface_frag_017
+    400252: Beta_Surface_frag_018
+    400254: Beta_Surface_frag_019
+    400256: Beta_Surface_frag_020
+    400258: Beta_Surface_frag_021
+    400260: Beta_Surface_frag_022
+    400262: Beta_Surface_frag_023
+    400264: Beta_Surface_frag_024
+    400266: Beta_Surface_frag_025
+    400268: Beta_Surface_frag_026
+    400270: Beta_Surface_frag_027
+    400272: Beta_Surface_frag_028
+    400274: Beta_Surface_frag_029
+    400276: Beta_Surface_frag_030
+    400278: Beta_Surface_frag_031
+    400280: Beta_Surface_frag_032
+    400282: Beta_Surface_frag_033
+    400284: Beta_Surface_frag_034
+    400286: Beta_Surface_frag_035
+    400288: Beta_Surface_frag_036
+    400290: Beta_Surface_frag_037
+    400292: Beta_Surface_frag_038
+    400294: Beta_Surface_frag_039
+    400296: Beta_Surface_frag_040
+    400298: Beta_Surface_frag_041
+    400300: Beta_Surface_frag_042
+    400302: Beta_Surface_frag_043
+    400304: Beta_Surface_frag_044
+    400306: Beta_Surface_frag_045
+    400308: Beta_Surface_frag_046
+    400310: Beta_Surface_frag_047
+    400312: Beta_Surface_frag_048
+    400314: Beta_Surface_frag_049
+    400316: Beta_Surface_frag_050
+    400318: Beta_Surface_frag_051
+    400320: Beta_Surface_frag_052
+    400322: Beta_Surface_frag_053
+    400324: Beta_Surface_frag_054
+    400326: Beta_Surface_frag_055
+    400328: Beta_Surface_frag_056
+    400330: Beta_Surface_frag_057
+    400332: Beta_Surface_frag_058
+    400334: Beta_Surface_frag_059
+    400336: Beta_Surface_frag_060
+    400338: Beta_Surface_frag_061
+    400340: Beta_Surface_frag_062
+    400342: Beta_Surface_frag_063
+    400344: Beta_Surface_frag_064
+    400346: Beta_Surface_frag_065
+    400348: Beta_Surface_frag_066
+    400350: Beta_Surface_frag_067
+    400352: Beta_Surface_frag_068
+    400354: Beta_Surface_frag_069
+    400356: Beta_Surface_frag_070
+    400358: Beta_Surface_frag_071
+    400360: Beta_Surface_frag_072
+    400362: Beta_Surface_frag_073
+    400364: Beta_Surface_frag_074
+    400366: Beta_Surface_frag_075
+    400368: Beta_Surface_frag_076
+    400370: Beta_Surface_frag_077
+    400372: Beta_Surface_frag_078
+    400374: Beta_Surface_frag_079
+    400376: Beta_Surface_frag_080
+    400378: Beta_Surface_frag_081
+    400380: Beta_Surface_frag_082
+    400382: Beta_Surface_frag_083
+    400384: Beta_Surface_frag_084
+    400386: Beta_Surface_frag_085
+    400388: Beta_Surface_frag_086
+    400390: Beta_Surface_frag_087
+    400392: Beta_Surface_frag_088
+    400394: Beta_Surface_frag_089
+    400396: Beta_Surface_frag_090
+    400398: Beta_Surface_frag_091
+    400400: Beta_Surface_frag_092
+    400402: Beta_Surface_frag_093
+    400404: Beta_Surface_frag_094
+    400406: Beta_Surface_frag_095
+    400408: Beta_Surface_frag_096
+    400410: Beta_Surface_frag_097
+    400412: Beta_Surface_frag_098
+    400414: Beta_Surface_frag_099
+    400416: Beta_Surface_frag_100
+    400418: Beta_Surface_frag_101
+    400420: Beta_Surface_frag_102
+    400422: Beta_Surface_frag_103
+    400424: Beta_Surface_frag_104
+    400426: Beta_Surface_frag_105
+    400428: Beta_Surface_frag_106
+    400430: Beta_Surface_frag_107
+    400432: Beta_Surface_frag_108
+    400434: Beta_Surface_frag_109
+    400436: Beta_Surface_frag_110
+    400438: Beta_Surface_frag_111
+    400440: Beta_Surface_frag_112
+    400442: Beta_Surface_frag_113
+    400444: Beta_Surface_frag_114
+    400446: Beta_Surface_frag_115
+    400448: Beta_Surface_frag_116
+    400450: Beta_Surface_frag_117
+    400452: Beta_Surface_frag_118
+    400454: Beta_Surface_frag_119
+    400456: Beta_Surface_frag_120
+    400458: Beta_Surface_frag_121
+    400460: Beta_Surface_frag_122
+    400462: Beta_Surface_frag_123
+    400464: Beta_Surface_frag_124
+    400466: Beta_Surface_frag_125
+    400468: Beta_Surface_frag_126
+    400470: Beta_Surface_frag_127
+    400472: Beta_Surface_frag_128
+    400474: Beta_Surface_frag_129
+    400476: Beta_Surface_frag_130
+    400478: Beta_Surface_frag_131
+    400480: Beta_Surface_frag_132
+    400482: Beta_Surface_frag_133
+    400484: Beta_Surface_frag_134
+    400486: Beta_Surface_frag_135
+    400488: Beta_Surface_frag_136
+    400490: Beta_Surface_frag_137
+    400492: Beta_Surface_frag_138
+    400494: Beta_Surface_frag_139
+    400496: Beta_Surface_frag_140
+    400498: Beta_Surface_frag_141
+    400500: Beta_Surface_frag_142
+    400502: Beta_Surface_frag_143
+    400504: Beta_Surface_frag_144
+    400506: Beta_Surface_frag_145
+    400508: Box001
+    400510: //RootNode
+    400512: mixamorig:Head
+    400514: mixamorig:HeadTop_End
+    400516: mixamorig:Hips
+    400518: mixamorig:LeftArm
+    400520: mixamorig:LeftEye
+    400522: mixamorig:LeftFoot
+    400524: mixamorig:LeftForeArm
+    400526: mixamorig:LeftHand
+    400528: mixamorig:LeftHandIndex1
+    400530: mixamorig:LeftHandIndex2
+    400532: mixamorig:LeftHandIndex3
+    400534: mixamorig:LeftHandIndex4
+    400536: mixamorig:LeftHandMiddle1
+    400538: mixamorig:LeftHandMiddle2
+    400540: mixamorig:LeftHandMiddle3
+    400542: mixamorig:LeftHandMiddle4
+    400544: mixamorig:LeftHandPinky1
+    400546: mixamorig:LeftHandPinky2
+    400548: mixamorig:LeftHandPinky3
+    400550: mixamorig:LeftHandPinky4
+    400552: mixamorig:LeftHandRing1
+    400554: mixamorig:LeftHandRing2
+    400556: mixamorig:LeftHandRing3
+    400558: mixamorig:LeftHandRing4
+    400560: mixamorig:LeftHandThumb1
+    400562: mixamorig:LeftHandThumb2
+    400564: mixamorig:LeftHandThumb3
+    400566: mixamorig:LeftHandThumb4
+    400568: mixamorig:LeftLeg
+    400570: mixamorig:LeftShoulder
+    400572: mixamorig:LeftToe_End
+    400574: mixamorig:LeftToeBase
+    400576: mixamorig:LeftUpLeg
+    400578: mixamorig:Neck
+    400580: mixamorig:RightArm
+    400582: mixamorig:RightEye
+    400584: mixamorig:RightFoot
+    400586: mixamorig:RightForeArm
+    400588: mixamorig:RightHand
+    400590: mixamorig:RightHandIndex1
+    400592: mixamorig:RightHandIndex2
+    400594: mixamorig:RightHandIndex3
+    400596: mixamorig:RightHandIndex4
+    400598: mixamorig:RightHandMiddle1
+    400600: mixamorig:RightHandMiddle2
+    400602: mixamorig:RightHandMiddle3
+    400604: mixamorig:RightHandMiddle4
+    400606: mixamorig:RightHandPinky1
+    400608: mixamorig:RightHandPinky2
+    400610: mixamorig:RightHandPinky3
+    400612: mixamorig:RightHandPinky4
+    400614: mixamorig:RightHandRing1
+    400616: mixamorig:RightHandRing2
+    400618: mixamorig:RightHandRing3
+    400620: mixamorig:RightHandRing4
+    400622: mixamorig:RightHandThumb1
+    400624: mixamorig:RightHandThumb2
+    400626: mixamorig:RightHandThumb3
+    400628: mixamorig:RightHandThumb4
+    400630: mixamorig:RightLeg
+    400632: mixamorig:RightShoulder
+    400634: mixamorig:RightToe_End
+    400636: mixamorig:RightToeBase
+    400638: mixamorig:RightUpLeg
+    400640: mixamorig:Spine
+    400642: mixamorig:Spine1
+    400644: mixamorig:Spine2
+    400646: Sphere001
+    2300000: Beta_Joints_frag_001
+    2300002: Beta_Joints_frag_002
+    2300004: Beta_Joints_frag_003
+    2300006: Beta_Joints_frag_004
+    2300008: Beta_Joints_frag_005
+    2300010: Beta_Joints_frag_006
+    2300012: Beta_Joints_frag_007
+    2300014: Beta_Joints_frag_008
+    2300016: Beta_Joints_frag_009
+    2300018: Beta_Joints_frag_010
+    2300020: Beta_Joints_frag_011
+    2300022: Beta_Joints_frag_012
+    2300024: Beta_Joints_frag_013
+    2300026: Beta_Joints_frag_014
+    2300028: Beta_Joints_frag_015
+    2300030: Beta_Joints_frag_016
+    2300032: Beta_Joints_frag_017
+    2300034: Beta_Joints_frag_018
+    2300036: Beta_Joints_frag_019
+    2300038: Beta_Joints_frag_020
+    2300040: Beta_Joints_frag_021
+    2300042: Beta_Joints_frag_022
+    2300044: Beta_Joints_frag_023
+    2300046: Beta_Joints_frag_024
+    2300048: Beta_Joints_frag_025
+    2300050: Beta_Joints_frag_026
+    2300052: Beta_Joints_frag_027
+    2300054: Beta_Joints_frag_028
+    2300056: Beta_Joints_frag_029
+    2300058: Beta_Joints_frag_030
+    2300060: Beta_Joints_frag_031
+    2300062: Beta_Joints_frag_032
+    2300064: Beta_Joints_frag_033
+    2300066: Beta_Joints_frag_034
+    2300068: Beta_Joints_frag_035
+    2300070: Beta_Joints_frag_036
+    2300072: Beta_Joints_frag_037
+    2300074: Beta_Joints_frag_038
+    2300076: Beta_Joints_frag_039
+    2300078: Beta_Joints_frag_040
+    2300080: Beta_Joints_frag_041
+    2300082: Beta_Joints_frag_042
+    2300084: Beta_Joints_frag_043
+    2300086: Beta_Joints_frag_044
+    2300088: Beta_Joints_frag_045
+    2300090: Beta_Joints_frag_046
+    2300092: Beta_Joints_frag_047
+    2300094: Beta_Joints_frag_048
+    2300096: Beta_Joints_frag_049
+    2300098: Beta_Joints_frag_050
+    2300100: Beta_Joints_frag_051
+    2300102: Beta_Joints_frag_052
+    2300104: Beta_Joints_frag_053
+    2300106: Beta_Joints_frag_054
+    2300108: Beta_Joints_frag_055
+    2300110: Beta_Joints_frag_056
+    2300112: Beta_Joints_frag_057
+    2300114: Beta_Joints_frag_058
+    2300116: Beta_Joints_frag_059
+    2300118: Beta_Joints_frag_060
+    2300120: Beta_Joints_frag_061
+    2300122: Beta_Joints_frag_062
+    2300124: Beta_Joints_frag_063
+    2300126: Beta_Joints_frag_064
+    2300128: Beta_Joints_frag_065
+    2300130: Beta_Joints_frag_066
+    2300132: Beta_Joints_frag_067
+    2300134: Beta_Joints_frag_068
+    2300136: Beta_Joints_frag_069
+    2300138: Beta_Joints_frag_070
+    2300140: Beta_Joints_frag_071
+    2300142: Beta_Joints_frag_072
+    2300144: Beta_Joints_frag_073
+    2300146: Beta_Joints_frag_074
+    2300148: Beta_Joints_frag_075
+    2300150: Beta_Joints_frag_076
+    2300152: Beta_Joints_frag_077
+    2300154: Beta_Joints_frag_078
+    2300156: Beta_Joints_frag_079
+    2300158: Beta_Joints_frag_080
+    2300160: Beta_Joints_frag_081
+    2300162: Beta_Joints_frag_082
+    2300164: Beta_Joints_frag_083
+    2300166: Beta_Joints_frag_084
+    2300168: Beta_Joints_frag_085
+    2300170: Beta_Joints_frag_086
+    2300172: Beta_Joints_frag_087
+    2300174: Beta_Joints_frag_088
+    2300176: Beta_Joints_frag_089
+    2300178: Beta_Joints_frag_090
+    2300180: Beta_Joints_frag_091
+    2300182: Beta_Joints_frag_092
+    2300184: Beta_Joints_frag_093
+    2300186: Beta_Joints_frag_094
+    2300188: Beta_Joints_frag_095
+    2300190: Beta_Joints_frag_096
+    2300192: Beta_Joints_frag_097
+    2300194: Beta_Joints_frag_098
+    2300196: Beta_Joints_frag_099
+    2300198: Beta_Joints_frag_100
+    2300200: Beta_Joints_frag_101
+    2300202: Beta_Joints_frag_102
+    2300204: Beta_Joints_frag_103
+    2300206: Beta_Joints_frag_104
+    2300208: Beta_Joints_frag_105
+    2300210: Beta_Joints_frag_106
+    2300212: Beta_Joints_frag_107
+    2300214: Beta_Surface_frag_001
+    2300216: Beta_Surface_frag_002
+    2300218: Beta_Surface_frag_003
+    2300220: Beta_Surface_frag_004
+    2300222: Beta_Surface_frag_005
+    2300224: Beta_Surface_frag_006
+    2300226: Beta_Surface_frag_007
+    2300228: Beta_Surface_frag_008
+    2300230: Beta_Surface_frag_009
+    2300232: Beta_Surface_frag_010
+    2300234: Beta_Surface_frag_011
+    2300236: Beta_Surface_frag_012
+    2300238: Beta_Surface_frag_013
+    2300240: Beta_Surface_frag_014
+    2300242: Beta_Surface_frag_015
+    2300244: Beta_Surface_frag_016
+    2300246: Beta_Surface_frag_017
+    2300248: Beta_Surface_frag_018
+    2300250: Beta_Surface_frag_019
+    2300252: Beta_Surface_frag_020
+    2300254: Beta_Surface_frag_021
+    2300256: Beta_Surface_frag_022
+    2300258: Beta_Surface_frag_023
+    2300260: Beta_Surface_frag_024
+    2300262: Beta_Surface_frag_025
+    2300264: Beta_Surface_frag_026
+    2300266: Beta_Surface_frag_027
+    2300268: Beta_Surface_frag_028
+    2300270: Beta_Surface_frag_029
+    2300272: Beta_Surface_frag_030
+    2300274: Beta_Surface_frag_031
+    2300276: Beta_Surface_frag_032
+    2300278: Beta_Surface_frag_033
+    2300280: Beta_Surface_frag_034
+    2300282: Beta_Surface_frag_035
+    2300284: Beta_Surface_frag_036
+    2300286: Beta_Surface_frag_037
+    2300288: Beta_Surface_frag_038
+    2300290: Beta_Surface_frag_039
+    2300292: Beta_Surface_frag_040
+    2300294: Beta_Surface_frag_041
+    2300296: Beta_Surface_frag_042
+    2300298: Beta_Surface_frag_043
+    2300300: Beta_Surface_frag_044
+    2300302: Beta_Surface_frag_045
+    2300304: Beta_Surface_frag_046
+    2300306: Beta_Surface_frag_047
+    2300308: Beta_Surface_frag_048
+    2300310: Beta_Surface_frag_049
+    2300312: Beta_Surface_frag_050
+    2300314: Beta_Surface_frag_051
+    2300316: Beta_Surface_frag_052
+    2300318: Beta_Surface_frag_053
+    2300320: Beta_Surface_frag_054
+    2300322: Beta_Surface_frag_055
+    2300324: Beta_Surface_frag_056
+    2300326: Beta_Surface_frag_057
+    2300328: Beta_Surface_frag_058
+    2300330: Beta_Surface_frag_059
+    2300332: Beta_Surface_frag_060
+    2300334: Beta_Surface_frag_061
+    2300336: Beta_Surface_frag_062
+    2300338: Beta_Surface_frag_063
+    2300340: Beta_Surface_frag_064
+    2300342: Beta_Surface_frag_065
+    2300344: Beta_Surface_frag_066
+    2300346: Beta_Surface_frag_067
+    2300348: Beta_Surface_frag_068
+    2300350: Beta_Surface_frag_069
+    2300352: Beta_Surface_frag_070
+    2300354: Beta_Surface_frag_071
+    2300356: Beta_Surface_frag_072
+    2300358: Beta_Surface_frag_073
+    2300360: Beta_Surface_frag_074
+    2300362: Beta_Surface_frag_075
+    2300364: Beta_Surface_frag_076
+    2300366: Beta_Surface_frag_077
+    2300368: Beta_Surface_frag_078
+    2300370: Beta_Surface_frag_079
+    2300372: Beta_Surface_frag_080
+    2300374: Beta_Surface_frag_081
+    2300376: Beta_Surface_frag_082
+    2300378: Beta_Surface_frag_083
+    2300380: Beta_Surface_frag_084
+    2300382: Beta_Surface_frag_085
+    2300384: Beta_Surface_frag_086
+    2300386: Beta_Surface_frag_087
+    2300388: Beta_Surface_frag_088
+    2300390: Beta_Surface_frag_089
+    2300392: Beta_Surface_frag_090
+    2300394: Beta_Surface_frag_091
+    2300396: Beta_Surface_frag_092
+    2300398: Beta_Surface_frag_093
+    2300400: Beta_Surface_frag_094
+    2300402: Beta_Surface_frag_095
+    2300404: Beta_Surface_frag_096
+    2300406: Beta_Surface_frag_097
+    2300408: Beta_Surface_frag_098
+    2300410: Beta_Surface_frag_099
+    2300412: Beta_Surface_frag_100
+    2300414: Beta_Surface_frag_101
+    2300416: Beta_Surface_frag_102
+    2300418: Beta_Surface_frag_103
+    2300420: Beta_Surface_frag_104
+    2300422: Beta_Surface_frag_105
+    2300424: Beta_Surface_frag_106
+    2300426: Beta_Surface_frag_107
+    2300428: Beta_Surface_frag_108
+    2300430: Beta_Surface_frag_109
+    2300432: Beta_Surface_frag_110
+    2300434: Beta_Surface_frag_111
+    2300436: Beta_Surface_frag_112
+    2300438: Beta_Surface_frag_113
+    2300440: Beta_Surface_frag_114
+    2300442: Beta_Surface_frag_115
+    2300444: Beta_Surface_frag_116
+    2300446: Beta_Surface_frag_117
+    2300448: Beta_Surface_frag_118
+    2300450: Beta_Surface_frag_119
+    2300452: Beta_Surface_frag_120
+    2300454: Beta_Surface_frag_121
+    2300456: Beta_Surface_frag_122
+    2300458: Beta_Surface_frag_123
+    2300460: Beta_Surface_frag_124
+    2300462: Beta_Surface_frag_125
+    2300464: Beta_Surface_frag_126
+    2300466: Beta_Surface_frag_127
+    2300468: Beta_Surface_frag_128
+    2300470: Beta_Surface_frag_129
+    2300472: Beta_Surface_frag_130
+    2300474: Beta_Surface_frag_131
+    2300476: Beta_Surface_frag_132
+    2300478: Beta_Surface_frag_133
+    2300480: Beta_Surface_frag_134
+    2300482: Beta_Surface_frag_135
+    2300484: Beta_Surface_frag_136
+    2300486: Beta_Surface_frag_137
+    2300488: Beta_Surface_frag_138
+    2300490: Beta_Surface_frag_139
+    2300492: Beta_Surface_frag_140
+    2300494: Beta_Surface_frag_141
+    2300496: Beta_Surface_frag_142
+    2300498: Beta_Surface_frag_143
+    2300500: Beta_Surface_frag_144
+    2300502: Beta_Surface_frag_145
+    2300504: Box001
+    2300506: Sphere001
+    3300000: Beta_Joints_frag_001
+    3300002: Beta_Joints_frag_002
+    3300004: Beta_Joints_frag_003
+    3300006: Beta_Joints_frag_004
+    3300008: Beta_Joints_frag_005
+    3300010: Beta_Joints_frag_006
+    3300012: Beta_Joints_frag_007
+    3300014: Beta_Joints_frag_008
+    3300016: Beta_Joints_frag_009
+    3300018: Beta_Joints_frag_010
+    3300020: Beta_Joints_frag_011
+    3300022: Beta_Joints_frag_012
+    3300024: Beta_Joints_frag_013
+    3300026: Beta_Joints_frag_014
+    3300028: Beta_Joints_frag_015
+    3300030: Beta_Joints_frag_016
+    3300032: Beta_Joints_frag_017
+    3300034: Beta_Joints_frag_018
+    3300036: Beta_Joints_frag_019
+    3300038: Beta_Joints_frag_020
+    3300040: Beta_Joints_frag_021
+    3300042: Beta_Joints_frag_022
+    3300044: Beta_Joints_frag_023
+    3300046: Beta_Joints_frag_024
+    3300048: Beta_Joints_frag_025
+    3300050: Beta_Joints_frag_026
+    3300052: Beta_Joints_frag_027
+    3300054: Beta_Joints_frag_028
+    3300056: Beta_Joints_frag_029
+    3300058: Beta_Joints_frag_030
+    3300060: Beta_Joints_frag_031
+    3300062: Beta_Joints_frag_032
+    3300064: Beta_Joints_frag_033
+    3300066: Beta_Joints_frag_034
+    3300068: Beta_Joints_frag_035
+    3300070: Beta_Joints_frag_036
+    3300072: Beta_Joints_frag_037
+    3300074: Beta_Joints_frag_038
+    3300076: Beta_Joints_frag_039
+    3300078: Beta_Joints_frag_040
+    3300080: Beta_Joints_frag_041
+    3300082: Beta_Joints_frag_042
+    3300084: Beta_Joints_frag_043
+    3300086: Beta_Joints_frag_044
+    3300088: Beta_Joints_frag_045
+    3300090: Beta_Joints_frag_046
+    3300092: Beta_Joints_frag_047
+    3300094: Beta_Joints_frag_048
+    3300096: Beta_Joints_frag_049
+    3300098: Beta_Joints_frag_050
+    3300100: Beta_Joints_frag_051
+    3300102: Beta_Joints_frag_052
+    3300104: Beta_Joints_frag_053
+    3300106: Beta_Joints_frag_054
+    3300108: Beta_Joints_frag_055
+    3300110: Beta_Joints_frag_056
+    3300112: Beta_Joints_frag_057
+    3300114: Beta_Joints_frag_058
+    3300116: Beta_Joints_frag_059
+    3300118: Beta_Joints_frag_060
+    3300120: Beta_Joints_frag_061
+    3300122: Beta_Joints_frag_062
+    3300124: Beta_Joints_frag_063
+    3300126: Beta_Joints_frag_064
+    3300128: Beta_Joints_frag_065
+    3300130: Beta_Joints_frag_066
+    3300132: Beta_Joints_frag_067
+    3300134: Beta_Joints_frag_068
+    3300136: Beta_Joints_frag_069
+    3300138: Beta_Joints_frag_070
+    3300140: Beta_Joints_frag_071
+    3300142: Beta_Joints_frag_072
+    3300144: Beta_Joints_frag_073
+    3300146: Beta_Joints_frag_074
+    3300148: Beta_Joints_frag_075
+    3300150: Beta_Joints_frag_076
+    3300152: Beta_Joints_frag_077
+    3300154: Beta_Joints_frag_078
+    3300156: Beta_Joints_frag_079
+    3300158: Beta_Joints_frag_080
+    3300160: Beta_Joints_frag_081
+    3300162: Beta_Joints_frag_082
+    3300164: Beta_Joints_frag_083
+    3300166: Beta_Joints_frag_084
+    3300168: Beta_Joints_frag_085
+    3300170: Beta_Joints_frag_086
+    3300172: Beta_Joints_frag_087
+    3300174: Beta_Joints_frag_088
+    3300176: Beta_Joints_frag_089
+    3300178: Beta_Joints_frag_090
+    3300180: Beta_Joints_frag_091
+    3300182: Beta_Joints_frag_092
+    3300184: Beta_Joints_frag_093
+    3300186: Beta_Joints_frag_094
+    3300188: Beta_Joints_frag_095
+    3300190: Beta_Joints_frag_096
+    3300192: Beta_Joints_frag_097
+    3300194: Beta_Joints_frag_098
+    3300196: Beta_Joints_frag_099
+    3300198: Beta_Joints_frag_100
+    3300200: Beta_Joints_frag_101
+    3300202: Beta_Joints_frag_102
+    3300204: Beta_Joints_frag_103
+    3300206: Beta_Joints_frag_104
+    3300208: Beta_Joints_frag_105
+    3300210: Beta_Joints_frag_106
+    3300212: Beta_Joints_frag_107
+    3300214: Beta_Surface_frag_001
+    3300216: Beta_Surface_frag_002
+    3300218: Beta_Surface_frag_003
+    3300220: Beta_Surface_frag_004
+    3300222: Beta_Surface_frag_005
+    3300224: Beta_Surface_frag_006
+    3300226: Beta_Surface_frag_007
+    3300228: Beta_Surface_frag_008
+    3300230: Beta_Surface_frag_009
+    3300232: Beta_Surface_frag_010
+    3300234: Beta_Surface_frag_011
+    3300236: Beta_Surface_frag_012
+    3300238: Beta_Surface_frag_013
+    3300240: Beta_Surface_frag_014
+    3300242: Beta_Surface_frag_015
+    3300244: Beta_Surface_frag_016
+    3300246: Beta_Surface_frag_017
+    3300248: Beta_Surface_frag_018
+    3300250: Beta_Surface_frag_019
+    3300252: Beta_Surface_frag_020
+    3300254: Beta_Surface_frag_021
+    3300256: Beta_Surface_frag_022
+    3300258: Beta_Surface_frag_023
+    3300260: Beta_Surface_frag_024
+    3300262: Beta_Surface_frag_025
+    3300264: Beta_Surface_frag_026
+    3300266: Beta_Surface_frag_027
+    3300268: Beta_Surface_frag_028
+    3300270: Beta_Surface_frag_029
+    3300272: Beta_Surface_frag_030
+    3300274: Beta_Surface_frag_031
+    3300276: Beta_Surface_frag_032
+    3300278: Beta_Surface_frag_033
+    3300280: Beta_Surface_frag_034
+    3300282: Beta_Surface_frag_035
+    3300284: Beta_Surface_frag_036
+    3300286: Beta_Surface_frag_037
+    3300288: Beta_Surface_frag_038
+    3300290: Beta_Surface_frag_039
+    3300292: Beta_Surface_frag_040
+    3300294: Beta_Surface_frag_041
+    3300296: Beta_Surface_frag_042
+    3300298: Beta_Surface_frag_043
+    3300300: Beta_Surface_frag_044
+    3300302: Beta_Surface_frag_045
+    3300304: Beta_Surface_frag_046
+    3300306: Beta_Surface_frag_047
+    3300308: Beta_Surface_frag_048
+    3300310: Beta_Surface_frag_049
+    3300312: Beta_Surface_frag_050
+    3300314: Beta_Surface_frag_051
+    3300316: Beta_Surface_frag_052
+    3300318: Beta_Surface_frag_053
+    3300320: Beta_Surface_frag_054
+    3300322: Beta_Surface_frag_055
+    3300324: Beta_Surface_frag_056
+    3300326: Beta_Surface_frag_057
+    3300328: Beta_Surface_frag_058
+    3300330: Beta_Surface_frag_059
+    3300332: Beta_Surface_frag_060
+    3300334: Beta_Surface_frag_061
+    3300336: Beta_Surface_frag_062
+    3300338: Beta_Surface_frag_063
+    3300340: Beta_Surface_frag_064
+    3300342: Beta_Surface_frag_065
+    3300344: Beta_Surface_frag_066
+    3300346: Beta_Surface_frag_067
+    3300348: Beta_Surface_frag_068
+    3300350: Beta_Surface_frag_069
+    3300352: Beta_Surface_frag_070
+    3300354: Beta_Surface_frag_071
+    3300356: Beta_Surface_frag_072
+    3300358: Beta_Surface_frag_073
+    3300360: Beta_Surface_frag_074
+    3300362: Beta_Surface_frag_075
+    3300364: Beta_Surface_frag_076
+    3300366: Beta_Surface_frag_077
+    3300368: Beta_Surface_frag_078
+    3300370: Beta_Surface_frag_079
+    3300372: Beta_Surface_frag_080
+    3300374: Beta_Surface_frag_081
+    3300376: Beta_Surface_frag_082
+    3300378: Beta_Surface_frag_083
+    3300380: Beta_Surface_frag_084
+    3300382: Beta_Surface_frag_085
+    3300384: Beta_Surface_frag_086
+    3300386: Beta_Surface_frag_087
+    3300388: Beta_Surface_frag_088
+    3300390: Beta_Surface_frag_089
+    3300392: Beta_Surface_frag_090
+    3300394: Beta_Surface_frag_091
+    3300396: Beta_Surface_frag_092
+    3300398: Beta_Surface_frag_093
+    3300400: Beta_Surface_frag_094
+    3300402: Beta_Surface_frag_095
+    3300404: Beta_Surface_frag_096
+    3300406: Beta_Surface_frag_097
+    3300408: Beta_Surface_frag_098
+    3300410: Beta_Surface_frag_099
+    3300412: Beta_Surface_frag_100
+    3300414: Beta_Surface_frag_101
+    3300416: Beta_Surface_frag_102
+    3300418: Beta_Surface_frag_103
+    3300420: Beta_Surface_frag_104
+    3300422: Beta_Surface_frag_105
+    3300424: Beta_Surface_frag_106
+    3300426: Beta_Surface_frag_107
+    3300428: Beta_Surface_frag_108
+    3300430: Beta_Surface_frag_109
+    3300432: Beta_Surface_frag_110
+    3300434: Beta_Surface_frag_111
+    3300436: Beta_Surface_frag_112
+    3300438: Beta_Surface_frag_113
+    3300440: Beta_Surface_frag_114
+    3300442: Beta_Surface_frag_115
+    3300444: Beta_Surface_frag_116
+    3300446: Beta_Surface_frag_117
+    3300448: Beta_Surface_frag_118
+    3300450: Beta_Surface_frag_119
+    3300452: Beta_Surface_frag_120
+    3300454: Beta_Surface_frag_121
+    3300456: Beta_Surface_frag_122
+    3300458: Beta_Surface_frag_123
+    3300460: Beta_Surface_frag_124
+    3300462: Beta_Surface_frag_125
+    3300464: Beta_Surface_frag_126
+    3300466: Beta_Surface_frag_127
+    3300468: Beta_Surface_frag_128
+    3300470: Beta_Surface_frag_129
+    3300472: Beta_Surface_frag_130
+    3300474: Beta_Surface_frag_131
+    3300476: Beta_Surface_frag_132
+    3300478: Beta_Surface_frag_133
+    3300480: Beta_Surface_frag_134
+    3300482: Beta_Surface_frag_135
+    3300484: Beta_Surface_frag_136
+    3300486: Beta_Surface_frag_137
+    3300488: Beta_Surface_frag_138
+    3300490: Beta_Surface_frag_139
+    3300492: Beta_Surface_frag_140
+    3300494: Beta_Surface_frag_141
+    3300496: Beta_Surface_frag_142
+    3300498: Beta_Surface_frag_143
+    3300500: Beta_Surface_frag_144
+    3300502: Beta_Surface_frag_145
+    3300504: Box001
+    3300506: Sphere001
+    4300000: Beta_Joints
+    4300002: Beta_Surface
+    4300004: Box001
+    4300006: Sphere001
+    4300008: Beta_Joints_frag_001
+    4300010: Beta_Joints_frag_002
+    4300012: Beta_Joints_frag_003
+    4300014: Beta_Joints_frag_004
+    4300016: Beta_Joints_frag_005
+    4300018: Beta_Joints_frag_006
+    4300020: Beta_Joints_frag_007
+    4300022: Beta_Joints_frag_008
+    4300024: Beta_Joints_frag_009
+    4300026: Beta_Joints_frag_010
+    4300028: Beta_Joints_frag_011
+    4300030: Beta_Joints_frag_012
+    4300032: Beta_Joints_frag_013
+    4300034: Beta_Joints_frag_014
+    4300036: Beta_Joints_frag_015
+    4300038: Beta_Joints_frag_016
+    4300040: Beta_Joints_frag_017
+    4300042: Beta_Joints_frag_018
+    4300044: Beta_Joints_frag_019
+    4300046: Beta_Joints_frag_020
+    4300048: Beta_Joints_frag_021
+    4300050: Beta_Joints_frag_022
+    4300052: Beta_Joints_frag_023
+    4300054: Beta_Joints_frag_024
+    4300056: Beta_Joints_frag_025
+    4300058: Beta_Joints_frag_026
+    4300060: Beta_Joints_frag_027
+    4300062: Beta_Joints_frag_028
+    4300064: Beta_Joints_frag_029
+    4300066: Beta_Joints_frag_030
+    4300068: Beta_Joints_frag_031
+    4300070: Beta_Joints_frag_032
+    4300072: Beta_Joints_frag_033
+    4300074: Beta_Joints_frag_034
+    4300076: Beta_Joints_frag_035
+    4300078: Beta_Joints_frag_036
+    4300080: Beta_Joints_frag_037
+    4300082: Beta_Joints_frag_038
+    4300084: Beta_Joints_frag_039
+    4300086: Beta_Joints_frag_040
+    4300088: Beta_Joints_frag_041
+    4300090: Beta_Joints_frag_042
+    4300092: Beta_Joints_frag_043
+    4300094: Beta_Joints_frag_044
+    4300096: Beta_Joints_frag_045
+    4300098: Beta_Joints_frag_046
+    4300100: Beta_Joints_frag_047
+    4300102: Beta_Joints_frag_048
+    4300104: Beta_Joints_frag_049
+    4300106: Beta_Joints_frag_050
+    4300108: Beta_Joints_frag_051
+    4300110: Beta_Joints_frag_052
+    4300112: Beta_Joints_frag_053
+    4300114: Beta_Joints_frag_054
+    4300116: Beta_Joints_frag_055
+    4300118: Beta_Joints_frag_056
+    4300120: Beta_Joints_frag_057
+    4300122: Beta_Joints_frag_058
+    4300124: Beta_Joints_frag_059
+    4300126: Beta_Joints_frag_060
+    4300128: Beta_Joints_frag_061
+    4300130: Beta_Joints_frag_062
+    4300132: Beta_Joints_frag_063
+    4300134: Beta_Joints_frag_064
+    4300136: Beta_Joints_frag_065
+    4300138: Beta_Joints_frag_066
+    4300140: Beta_Joints_frag_067
+    4300142: Beta_Joints_frag_068
+    4300144: Beta_Joints_frag_069
+    4300146: Beta_Joints_frag_070
+    4300148: Beta_Joints_frag_071
+    4300150: Beta_Joints_frag_072
+    4300152: Beta_Joints_frag_073
+    4300154: Beta_Joints_frag_074
+    4300156: Beta_Joints_frag_075
+    4300158: Beta_Joints_frag_076
+    4300160: Beta_Joints_frag_077
+    4300162: Beta_Joints_frag_078
+    4300164: Beta_Joints_frag_079
+    4300166: Beta_Joints_frag_080
+    4300168: Beta_Joints_frag_081
+    4300170: Beta_Joints_frag_082
+    4300172: Beta_Joints_frag_083
+    4300174: Beta_Joints_frag_084
+    4300176: Beta_Joints_frag_085
+    4300178: Beta_Joints_frag_086
+    4300180: Beta_Joints_frag_087
+    4300182: Beta_Joints_frag_088
+    4300184: Beta_Joints_frag_089
+    4300186: Beta_Joints_frag_090
+    4300188: Beta_Joints_frag_091
+    4300190: Beta_Joints_frag_092
+    4300192: Beta_Joints_frag_093
+    4300194: Beta_Joints_frag_094
+    4300196: Beta_Joints_frag_095
+    4300198: Beta_Joints_frag_096
+    4300200: Beta_Joints_frag_097
+    4300202: Beta_Joints_frag_098
+    4300204: Beta_Joints_frag_099
+    4300206: Beta_Joints_frag_100
+    4300208: Beta_Joints_frag_101
+    4300210: Beta_Joints_frag_102
+    4300212: Beta_Joints_frag_103
+    4300214: Beta_Joints_frag_104
+    4300216: Beta_Joints_frag_105
+    4300218: Beta_Joints_frag_106
+    4300220: Beta_Joints_frag_107
+    4300222: Beta_Surface_frag_001
+    4300224: Beta_Surface_frag_002
+    4300226: Beta_Surface_frag_003
+    4300228: Beta_Surface_frag_004
+    4300230: Beta_Surface_frag_005
+    4300232: Beta_Surface_frag_006
+    4300234: Beta_Surface_frag_007
+    4300236: Beta_Surface_frag_008
+    4300238: Beta_Surface_frag_009
+    4300240: Beta_Surface_frag_010
+    4300242: Beta_Surface_frag_011
+    4300244: Beta_Surface_frag_012
+    4300246: Beta_Surface_frag_013
+    4300248: Beta_Surface_frag_014
+    4300250: Beta_Surface_frag_015
+    4300252: Beta_Surface_frag_016
+    4300254: Beta_Surface_frag_017
+    4300256: Beta_Surface_frag_018
+    4300258: Beta_Surface_frag_019
+    4300260: Beta_Surface_frag_020
+    4300262: Beta_Surface_frag_021
+    4300264: Beta_Surface_frag_022
+    4300266: Beta_Surface_frag_023
+    4300268: Beta_Surface_frag_024
+    4300270: Beta_Surface_frag_025
+    4300272: Beta_Surface_frag_026
+    4300274: Beta_Surface_frag_027
+    4300276: Beta_Surface_frag_028
+    4300278: Beta_Surface_frag_029
+    4300280: Beta_Surface_frag_030
+    4300282: Beta_Surface_frag_031
+    4300284: Beta_Surface_frag_032
+    4300286: Beta_Surface_frag_033
+    4300288: Beta_Surface_frag_034
+    4300290: Beta_Surface_frag_035
+    4300292: Beta_Surface_frag_036
+    4300294: Beta_Surface_frag_037
+    4300296: Beta_Surface_frag_038
+    4300298: Beta_Surface_frag_039
+    4300300: Beta_Surface_frag_040
+    4300302: Beta_Surface_frag_041
+    4300304: Beta_Surface_frag_042
+    4300306: Beta_Surface_frag_043
+    4300308: Beta_Surface_frag_044
+    4300310: Beta_Surface_frag_045
+    4300312: Beta_Surface_frag_046
+    4300314: Beta_Surface_frag_047
+    4300316: Beta_Surface_frag_048
+    4300318: Beta_Surface_frag_049
+    4300320: Beta_Surface_frag_050
+    4300322: Beta_Surface_frag_051
+    4300324: Beta_Surface_frag_052
+    4300326: Beta_Surface_frag_053
+    4300328: Beta_Surface_frag_054
+    4300330: Beta_Surface_frag_055
+    4300332: Beta_Surface_frag_056
+    4300334: Beta_Surface_frag_057
+    4300336: Beta_Surface_frag_058
+    4300338: Beta_Surface_frag_059
+    4300340: Beta_Surface_frag_060
+    4300342: Beta_Surface_frag_061
+    4300344: Beta_Surface_frag_062
+    4300346: Beta_Surface_frag_063
+    4300348: Beta_Surface_frag_064
+    4300350: Beta_Surface_frag_065
+    4300352: Beta_Surface_frag_066
+    4300354: Beta_Surface_frag_067
+    4300356: Beta_Surface_frag_068
+    4300358: Beta_Surface_frag_069
+    4300360: Beta_Surface_frag_070
+    4300362: Beta_Surface_frag_071
+    4300364: Beta_Surface_frag_072
+    4300366: Beta_Surface_frag_073
+    4300368: Beta_Surface_frag_074
+    4300370: Beta_Surface_frag_075
+    4300372: Beta_Surface_frag_076
+    4300374: Beta_Surface_frag_077
+    4300376: Beta_Surface_frag_078
+    4300378: Beta_Surface_frag_079
+    4300380: Beta_Surface_frag_080
+    4300382: Beta_Surface_frag_081
+    4300384: Beta_Surface_frag_082
+    4300386: Beta_Surface_frag_083
+    4300388: Beta_Surface_frag_084
+    4300390: Beta_Surface_frag_085
+    4300392: Beta_Surface_frag_086
+    4300394: Beta_Surface_frag_087
+    4300396: Beta_Surface_frag_088
+    4300398: Beta_Surface_frag_089
+    4300400: Beta_Surface_frag_090
+    4300402: Beta_Surface_frag_091
+    4300404: Beta_Surface_frag_092
+    4300406: Beta_Surface_frag_093
+    4300408: Beta_Surface_frag_094
+    4300410: Beta_Surface_frag_095
+    4300412: Beta_Surface_frag_096
+    4300414: Beta_Surface_frag_097
+    4300416: Beta_Surface_frag_098
+    4300418: Beta_Surface_frag_099
+    4300420: Beta_Surface_frag_100
+    4300422: Beta_Surface_frag_101
+    4300424: Beta_Surface_frag_102
+    4300426: Beta_Surface_frag_103
+    4300428: Beta_Surface_frag_104
+    4300430: Beta_Surface_frag_105
+    4300432: Beta_Surface_frag_106
+    4300434: Beta_Surface_frag_107
+    4300436: Beta_Surface_frag_108
+    4300438: Beta_Surface_frag_109
+    4300440: Beta_Surface_frag_110
+    4300442: Beta_Surface_frag_111
+    4300444: Beta_Surface_frag_112
+    4300446: Beta_Surface_frag_113
+    4300448: Beta_Surface_frag_114
+    4300450: Beta_Surface_frag_115
+    4300452: Beta_Surface_frag_116
+    4300454: Beta_Surface_frag_117
+    4300456: Beta_Surface_frag_118
+    4300458: Beta_Surface_frag_119
+    4300460: Beta_Surface_frag_120
+    4300462: Beta_Surface_frag_121
+    4300464: Beta_Surface_frag_122
+    4300466: Beta_Surface_frag_123
+    4300468: Beta_Surface_frag_124
+    4300470: Beta_Surface_frag_125
+    4300472: Beta_Surface_frag_126
+    4300474: Beta_Surface_frag_127
+    4300476: Beta_Surface_frag_128
+    4300478: Beta_Surface_frag_129
+    4300480: Beta_Surface_frag_130
+    4300482: Beta_Surface_frag_131
+    4300484: Beta_Surface_frag_132
+    4300486: Beta_Surface_frag_133
+    4300488: Beta_Surface_frag_134
+    4300490: Beta_Surface_frag_135
+    4300492: Beta_Surface_frag_136
+    4300494: Beta_Surface_frag_137
+    4300496: Beta_Surface_frag_138
+    4300498: Beta_Surface_frag_139
+    4300500: Beta_Surface_frag_140
+    4300502: Beta_Surface_frag_141
+    4300504: Beta_Surface_frag_142
+    4300506: Beta_Surface_frag_143
+    4300508: Beta_Surface_frag_144
+    4300510: Beta_Surface_frag_145
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Beta_Joints
+    13700002: Beta_Surface
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 109
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Beta_Joints
+        weight: 0
+      - path: Beta_Joints_frag_001
+        weight: 0
+      - path: Beta_Joints_frag_002
+        weight: 0
+      - path: Beta_Joints_frag_003
+        weight: 0
+      - path: Beta_Joints_frag_004
+        weight: 0
+      - path: Beta_Joints_frag_005
+        weight: 0
+      - path: Beta_Joints_frag_006
+        weight: 0
+      - path: Beta_Joints_frag_007
+        weight: 0
+      - path: Beta_Joints_frag_008
+        weight: 0
+      - path: Beta_Joints_frag_009
+        weight: 0
+      - path: Beta_Joints_frag_010
+        weight: 0
+      - path: Beta_Joints_frag_011
+        weight: 0
+      - path: Beta_Joints_frag_012
+        weight: 0
+      - path: Beta_Joints_frag_013
+        weight: 0
+      - path: Beta_Joints_frag_014
+        weight: 0
+      - path: Beta_Joints_frag_015
+        weight: 0
+      - path: Beta_Joints_frag_016
+        weight: 0
+      - path: Beta_Joints_frag_017
+        weight: 0
+      - path: Beta_Joints_frag_018
+        weight: 0
+      - path: Beta_Joints_frag_019
+        weight: 0
+      - path: Beta_Joints_frag_020
+        weight: 0
+      - path: Beta_Joints_frag_021
+        weight: 0
+      - path: Beta_Joints_frag_022
+        weight: 0
+      - path: Beta_Joints_frag_023
+        weight: 0
+      - path: Beta_Joints_frag_024
+        weight: 0
+      - path: Beta_Joints_frag_025
+        weight: 0
+      - path: Beta_Joints_frag_026
+        weight: 0
+      - path: Beta_Joints_frag_027
+        weight: 0
+      - path: Beta_Joints_frag_028
+        weight: 0
+      - path: Beta_Joints_frag_029
+        weight: 0
+      - path: Beta_Joints_frag_030
+        weight: 0
+      - path: Beta_Joints_frag_031
+        weight: 0
+      - path: Beta_Joints_frag_032
+        weight: 0
+      - path: Beta_Joints_frag_033
+        weight: 0
+      - path: Beta_Joints_frag_034
+        weight: 0
+      - path: Beta_Joints_frag_035
+        weight: 0
+      - path: Beta_Joints_frag_036
+        weight: 0
+      - path: Beta_Joints_frag_037
+        weight: 0
+      - path: Beta_Joints_frag_038
+        weight: 0
+      - path: Beta_Joints_frag_039
+        weight: 0
+      - path: Beta_Joints_frag_040
+        weight: 0
+      - path: Beta_Joints_frag_041
+        weight: 0
+      - path: Beta_Joints_frag_042
+        weight: 0
+      - path: Beta_Joints_frag_043
+        weight: 0
+      - path: Beta_Joints_frag_044
+        weight: 0
+      - path: Beta_Joints_frag_045
+        weight: 0
+      - path: Beta_Joints_frag_046
+        weight: 0
+      - path: Beta_Joints_frag_047
+        weight: 0
+      - path: Beta_Joints_frag_048
+        weight: 0
+      - path: Beta_Joints_frag_049
+        weight: 0
+      - path: Beta_Joints_frag_050
+        weight: 0
+      - path: Beta_Joints_frag_051
+        weight: 0
+      - path: Beta_Joints_frag_052
+        weight: 0
+      - path: Beta_Joints_frag_053
+        weight: 0
+      - path: Beta_Joints_frag_054
+        weight: 0
+      - path: Beta_Joints_frag_055
+        weight: 0
+      - path: Beta_Joints_frag_056
+        weight: 0
+      - path: Beta_Joints_frag_057
+        weight: 0
+      - path: Beta_Joints_frag_058
+        weight: 0
+      - path: Beta_Joints_frag_059
+        weight: 0
+      - path: Beta_Joints_frag_060
+        weight: 0
+      - path: Beta_Joints_frag_061
+        weight: 0
+      - path: Beta_Joints_frag_062
+        weight: 0
+      - path: Beta_Joints_frag_063
+        weight: 0
+      - path: Beta_Joints_frag_064
+        weight: 0
+      - path: Beta_Joints_frag_065
+        weight: 0
+      - path: Beta_Joints_frag_066
+        weight: 0
+      - path: Beta_Joints_frag_067
+        weight: 0
+      - path: Beta_Joints_frag_068
+        weight: 0
+      - path: Beta_Joints_frag_069
+        weight: 0
+      - path: Beta_Joints_frag_070
+        weight: 0
+      - path: Beta_Joints_frag_071
+        weight: 0
+      - path: Beta_Joints_frag_072
+        weight: 0
+      - path: Beta_Joints_frag_073
+        weight: 0
+      - path: Beta_Joints_frag_074
+        weight: 0
+      - path: Beta_Joints_frag_075
+        weight: 0
+      - path: Beta_Joints_frag_076
+        weight: 0
+      - path: Beta_Joints_frag_077
+        weight: 0
+      - path: Beta_Joints_frag_078
+        weight: 0
+      - path: Beta_Joints_frag_079
+        weight: 0
+      - path: Beta_Joints_frag_080
+        weight: 0
+      - path: Beta_Joints_frag_081
+        weight: 0
+      - path: Beta_Joints_frag_082
+        weight: 0
+      - path: Beta_Joints_frag_083
+        weight: 0
+      - path: Beta_Joints_frag_084
+        weight: 0
+      - path: Beta_Joints_frag_085
+        weight: 0
+      - path: Beta_Joints_frag_086
+        weight: 0
+      - path: Beta_Joints_frag_087
+        weight: 0
+      - path: Beta_Joints_frag_088
+        weight: 0
+      - path: Beta_Joints_frag_089
+        weight: 0
+      - path: Beta_Joints_frag_090
+        weight: 0
+      - path: Beta_Joints_frag_091
+        weight: 0
+      - path: Beta_Joints_frag_092
+        weight: 0
+      - path: Beta_Joints_frag_093
+        weight: 0
+      - path: Beta_Joints_frag_094
+        weight: 0
+      - path: Beta_Joints_frag_095
+        weight: 0
+      - path: Beta_Joints_frag_096
+        weight: 0
+      - path: Beta_Joints_frag_097
+        weight: 0
+      - path: Beta_Joints_frag_098
+        weight: 0
+      - path: Beta_Joints_frag_099
+        weight: 0
+      - path: Beta_Joints_frag_100
+        weight: 0
+      - path: Beta_Joints_frag_101
+        weight: 0
+      - path: Beta_Joints_frag_102
+        weight: 0
+      - path: Beta_Joints_frag_103
+        weight: 0
+      - path: Beta_Joints_frag_104
+        weight: 0
+      - path: Beta_Joints_frag_105
+        weight: 0
+      - path: Beta_Joints_frag_106
+        weight: 0
+      - path: Beta_Joints_frag_107
+        weight: 0
+      - path: Beta_Surface
+        weight: 0
+      - path: Beta_Surface_frag_001
+        weight: 0
+      - path: Beta_Surface_frag_002
+        weight: 0
+      - path: Beta_Surface_frag_003
+        weight: 0
+      - path: Beta_Surface_frag_004
+        weight: 0
+      - path: Beta_Surface_frag_005
+        weight: 0
+      - path: Beta_Surface_frag_006
+        weight: 0
+      - path: Beta_Surface_frag_007
+        weight: 0
+      - path: Beta_Surface_frag_008
+        weight: 0
+      - path: Beta_Surface_frag_009
+        weight: 0
+      - path: Beta_Surface_frag_010
+        weight: 0
+      - path: Beta_Surface_frag_011
+        weight: 0
+      - path: Beta_Surface_frag_012
+        weight: 0
+      - path: Beta_Surface_frag_013
+        weight: 0
+      - path: Beta_Surface_frag_014
+        weight: 0
+      - path: Beta_Surface_frag_015
+        weight: 0
+      - path: Beta_Surface_frag_016
+        weight: 0
+      - path: Beta_Surface_frag_017
+        weight: 0
+      - path: Beta_Surface_frag_018
+        weight: 0
+      - path: Beta_Surface_frag_019
+        weight: 0
+      - path: Beta_Surface_frag_020
+        weight: 0
+      - path: Beta_Surface_frag_021
+        weight: 0
+      - path: Beta_Surface_frag_022
+        weight: 0
+      - path: Beta_Surface_frag_023
+        weight: 0
+      - path: Beta_Surface_frag_024
+        weight: 0
+      - path: Beta_Surface_frag_025
+        weight: 0
+      - path: Beta_Surface_frag_026
+        weight: 0
+      - path: Beta_Surface_frag_027
+        weight: 0
+      - path: Beta_Surface_frag_028
+        weight: 0
+      - path: Beta_Surface_frag_029
+        weight: 0
+      - path: Beta_Surface_frag_030
+        weight: 0
+      - path: Beta_Surface_frag_031
+        weight: 0
+      - path: Beta_Surface_frag_032
+        weight: 0
+      - path: Beta_Surface_frag_033
+        weight: 0
+      - path: Beta_Surface_frag_034
+        weight: 0
+      - path: Beta_Surface_frag_035
+        weight: 0
+      - path: Beta_Surface_frag_036
+        weight: 0
+      - path: Beta_Surface_frag_037
+        weight: 0
+      - path: Beta_Surface_frag_038
+        weight: 0
+      - path: Beta_Surface_frag_039
+        weight: 0
+      - path: Beta_Surface_frag_040
+        weight: 0
+      - path: Beta_Surface_frag_041
+        weight: 0
+      - path: Beta_Surface_frag_042
+        weight: 0
+      - path: Beta_Surface_frag_043
+        weight: 0
+      - path: Beta_Surface_frag_044
+        weight: 0
+      - path: Beta_Surface_frag_045
+        weight: 0
+      - path: Beta_Surface_frag_046
+        weight: 0
+      - path: Beta_Surface_frag_047
+        weight: 0
+      - path: Beta_Surface_frag_048
+        weight: 0
+      - path: Beta_Surface_frag_049
+        weight: 0
+      - path: Beta_Surface_frag_050
+        weight: 0
+      - path: Beta_Surface_frag_051
+        weight: 0
+      - path: Beta_Surface_frag_052
+        weight: 0
+      - path: Beta_Surface_frag_053
+        weight: 0
+      - path: Beta_Surface_frag_054
+        weight: 0
+      - path: Beta_Surface_frag_055
+        weight: 0
+      - path: Beta_Surface_frag_056
+        weight: 0
+      - path: Beta_Surface_frag_057
+        weight: 0
+      - path: Beta_Surface_frag_058
+        weight: 0
+      - path: Beta_Surface_frag_059
+        weight: 0
+      - path: Beta_Surface_frag_060
+        weight: 0
+      - path: Beta_Surface_frag_061
+        weight: 0
+      - path: Beta_Surface_frag_062
+        weight: 0
+      - path: Beta_Surface_frag_063
+        weight: 0
+      - path: Beta_Surface_frag_064
+        weight: 0
+      - path: Beta_Surface_frag_065
+        weight: 0
+      - path: Beta_Surface_frag_066
+        weight: 0
+      - path: Beta_Surface_frag_067
+        weight: 0
+      - path: Beta_Surface_frag_068
+        weight: 0
+      - path: Beta_Surface_frag_069
+        weight: 0
+      - path: Beta_Surface_frag_070
+        weight: 0
+      - path: Beta_Surface_frag_071
+        weight: 0
+      - path: Beta_Surface_frag_072
+        weight: 0
+      - path: Beta_Surface_frag_073
+        weight: 0
+      - path: Beta_Surface_frag_074
+        weight: 0
+      - path: Beta_Surface_frag_075
+        weight: 0
+      - path: Beta_Surface_frag_076
+        weight: 0
+      - path: Beta_Surface_frag_077
+        weight: 0
+      - path: Beta_Surface_frag_078
+        weight: 0
+      - path: Beta_Surface_frag_079
+        weight: 0
+      - path: Beta_Surface_frag_080
+        weight: 0
+      - path: Beta_Surface_frag_081
+        weight: 0
+      - path: Beta_Surface_frag_082
+        weight: 0
+      - path: Beta_Surface_frag_083
+        weight: 0
+      - path: Beta_Surface_frag_084
+        weight: 0
+      - path: Beta_Surface_frag_085
+        weight: 0
+      - path: Beta_Surface_frag_086
+        weight: 0
+      - path: Beta_Surface_frag_087
+        weight: 0
+      - path: Beta_Surface_frag_088
+        weight: 0
+      - path: Beta_Surface_frag_089
+        weight: 0
+      - path: Beta_Surface_frag_090
+        weight: 0
+      - path: Beta_Surface_frag_091
+        weight: 0
+      - path: Beta_Surface_frag_092
+        weight: 0
+      - path: Beta_Surface_frag_093
+        weight: 0
+      - path: Beta_Surface_frag_094
+        weight: 0
+      - path: Beta_Surface_frag_095
+        weight: 0
+      - path: Beta_Surface_frag_096
+        weight: 0
+      - path: Beta_Surface_frag_097
+        weight: 0
+      - path: Beta_Surface_frag_098
+        weight: 0
+      - path: Beta_Surface_frag_099
+        weight: 0
+      - path: Beta_Surface_frag_100
+        weight: 0
+      - path: Beta_Surface_frag_101
+        weight: 0
+      - path: Beta_Surface_frag_102
+        weight: 0
+      - path: Beta_Surface_frag_103
+        weight: 0
+      - path: Beta_Surface_frag_104
+        weight: 0
+      - path: Beta_Surface_frag_105
+        weight: 0
+      - path: Beta_Surface_frag_106
+        weight: 0
+      - path: Beta_Surface_frag_107
+        weight: 0
+      - path: Beta_Surface_frag_108
+        weight: 0
+      - path: Beta_Surface_frag_109
+        weight: 0
+      - path: Beta_Surface_frag_110
+        weight: 0
+      - path: Beta_Surface_frag_111
+        weight: 0
+      - path: Beta_Surface_frag_112
+        weight: 0
+      - path: Beta_Surface_frag_113
+        weight: 0
+      - path: Beta_Surface_frag_114
+        weight: 0
+      - path: Beta_Surface_frag_115
+        weight: 0
+      - path: Beta_Surface_frag_116
+        weight: 0
+      - path: Beta_Surface_frag_117
+        weight: 0
+      - path: Beta_Surface_frag_118
+        weight: 0
+      - path: Beta_Surface_frag_119
+        weight: 0
+      - path: Beta_Surface_frag_120
+        weight: 0
+      - path: Beta_Surface_frag_121
+        weight: 0
+      - path: Beta_Surface_frag_122
+        weight: 0
+      - path: Beta_Surface_frag_123
+        weight: 0
+      - path: Beta_Surface_frag_124
+        weight: 0
+      - path: Beta_Surface_frag_125
+        weight: 0
+      - path: Beta_Surface_frag_126
+        weight: 0
+      - path: Beta_Surface_frag_127
+        weight: 0
+      - path: Beta_Surface_frag_128
+        weight: 0
+      - path: Beta_Surface_frag_129
+        weight: 0
+      - path: Beta_Surface_frag_130
+        weight: 0
+      - path: Beta_Surface_frag_131
+        weight: 0
+      - path: Beta_Surface_frag_132
+        weight: 0
+      - path: Beta_Surface_frag_133
+        weight: 0
+      - path: Beta_Surface_frag_134
+        weight: 0
+      - path: Beta_Surface_frag_135
+        weight: 0
+      - path: Beta_Surface_frag_136
+        weight: 0
+      - path: Beta_Surface_frag_137
+        weight: 0
+      - path: Beta_Surface_frag_138
+        weight: 0
+      - path: Beta_Surface_frag_139
+        weight: 0
+      - path: Beta_Surface_frag_140
+        weight: 0
+      - path: Beta_Surface_frag_141
+        weight: 0
+      - path: Beta_Surface_frag_142
+        weight: 0
+      - path: Beta_Surface_frag_143
+        weight: 0
+      - path: Beta_Surface_frag_144
+        weight: 0
+      - path: Beta_Surface_frag_145
+        weight: 0
+      - path: Box001
+        weight: 0
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3/mixamorig:LeftHandMiddle4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3/mixamorig:LeftHandPinky4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3/mixamorig:LeftHandRing4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3/mixamorig:LeftHandThumb4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:LeftEye
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:RightEye
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3/mixamorig:RightHandMiddle4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3/mixamorig:RightHandPinky4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3/mixamorig:RightHandRing4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3/mixamorig:RightHandThumb4
+        weight: 0
+      - path: Sphere001
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
